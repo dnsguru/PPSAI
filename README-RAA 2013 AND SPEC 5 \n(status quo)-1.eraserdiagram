@@ -1,0 +1,35 @@
+flowchart-diagram
+
+title RAA 2013 AND SPEC 5 \n(status quo)
+// Nodes and groups
+Have [label: Parties with data] {
+  RrG [label: ICANN Accredited Registrars] {
+    Rr1 [icon: x, label: X CORPORATION, color: blue] {
+      Rr1Rr [icon: x, label: Registrar X, color: orange]
+      Rr1PP [icon: xpp, label: P/P X, color: orange]
+    }
+    Rr2 [icon: y, label: Y CORPORATION, color: purple] {
+      Rr2Rr [icon: y, label: Registrar Y, color: orange]
+      Rr2PP [icon: ypp, label: P/P Y, color: orange]
+    }
+  }
+  L [label: Non-Accredited Parties, color:red] {
+      L1PP [icon: z, label: P/P Provider, color:red]
+      L2PP [icon: proxymask, label: On-Behalf, color:red]
+    }
+}
+Want [label: Parties that want data, color: gray] {
+  RqG [label: Requestor/Reporter Group, color: gray] {
+    RqLE [icon: b, label: Law Enforcement Agencies \nB, color: gray]
+    RqIP [icon: a, label: Rights Protection Representation\nA, color: gray]
+  }
+}
+
+Reg [label: Registrant, color:cyan] {
+  Rt [icon: user, label: Private Beneficial Owner, color:darkcyan]
+}
+
+//Connectors
+Rt > Rr1PP : Registrant using P/P Provider Affiliated with Rr X
+Rr1PP > Rr1Rr : Registrant Opted for Privacy when registering to avoid being harrassed by spam / robocalls
+RqIP > Rr1Rr : Domain name (or content) believed to infringe and triggered need to determine beneficial owner 
