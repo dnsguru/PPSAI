@@ -5,13 +5,9 @@ Diagrams and Flowcharts to help understand Privacy Proxy Providers and ICANN Acc
 
 Currently, while awaiting an Accreditation Program, Privacy Proxy Providers (P/P) are affiliated with a registrar or are unknown.
 
-Figure 1 shows a registrant using the privacy / proxy service of the registrar that they have a domain name registered at to mask their contact details, because they do not like being harassed by telemarketers and spammers when their information is publicly available in the whois.
+First Diagram shows a registrant using the privacy / proxy service of the registrar that they have a domain name registered at to mask their contact details, because they do not like being harassed by telemarketers and spammers when their information is publicly available in the whois.
 
-![Figure 1](/.eraser/HbyaCzN8pqo5A8mv0nbP___tXW2fx7GsLNe1Yek5Kvb2Og6yM62___---figure---13oPzCvQ1i7yVCptP6qsO---figure---QhS13kzvn526YNadLI6iRA.png "Figure 1")
-
-![Figure 2](/.eraser/HbyaCzN8pqo5A8mv0nbP___tXW2fx7GsLNe1Yek5Kvb2Og6yM62___---figure---bLnfWn1YG4EXq1cp7TFk0---figure---3YW7eDBQsGQo-PkDkzucdg.png "Figure 2")
-
-Figure 2 represents a typical scenario where a requestor is disatisfied with a request and requests the information behind the P/P Provider about the registrant, and they make a successful request, receiving the underlaying registrant information.
+Second diagram represents a typical scenario where a requestor is disatisfied with a request and requests the information behind the P/P Provider about the registrant, and they make a successful request, receiving the underlaying registrant information.
 
 
 <!-- eraser-additional-content -->
