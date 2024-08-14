@@ -7,7 +7,8 @@ Diagrams and Flowcharts to help understand Privacy Proxy Providers and ICANN Acc
 <!-- eraser-additional-content -->
 ## Diagrams
 <!-- eraser-additional-files -->
-<a href="/README-RAA 2013 AND SPEC 5 \n(status quo)-1.eraserdiagram" data-element-id="3P3SyNd-rP7H-AxkJo2y0"><img src="/.eraser/HbyaCzN8pqo5A8mv0nbP___tXW2fx7GsLNe1Yek5Kvb2Og6yM62___---diagram----3f6056613e67578c81954376876205b4-RAA-2013-AND-SPEC-5--n-status-quo-.png" alt="" data-element-id="3P3SyNd-rP7H-AxkJo2y0" /></a>
+<a href="/README-RAA 2013 AND SPEC 5 \n(status quo)-1.eraserdiagram" data-element-id="3P3SyNd-rP7H-AxkJo2y0"><img src="/.eraser/HbyaCzN8pqo5A8mv0nbP___tXW2fx7GsLNe1Yek5Kvb2Og6yM62___---diagram----4f78cf86c4ceb3d7299e6b32012272e3-RAA-2013-AND-SPEC-5--n-status-quo-.png" alt="" data-element-id="3P3SyNd-rP7H-AxkJo2y0" /></a>
+<a href="/README-Typical Request when Registrar and PP Provider Affiliated-2.eraserdiagram" data-element-id="mV8VAdPeLHGu5Sk9LgOwc"><img src="/.eraser/HbyaCzN8pqo5A8mv0nbP___tXW2fx7GsLNe1Yek5Kvb2Og6yM62___---diagram----25821209bc101760eaa9713d6f3935e1-Typical-Request-when-Registrar-and-PP-Provider-Affiliated.png" alt="" data-element-id="mV8VAdPeLHGu5Sk9LgOwc" /></a>
 <!-- end-eraser-additional-files -->
 <!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/HbyaCzN8pqo5A8mv0nbP --->

@@ -5,17 +5,16 @@ title RAA 2013 AND SPEC 5 \n(status quo)
 Have [label: Parties with data] {
   RrG [label: ICANN Accredited Registrars] {
     Rr1 [icon: x, label: X CORPORATION, color: blue] {
-      Rr1Rr [icon: x, label: Registrar X, color: orange]
-      Rr1PP [icon: xpp, label: P/P X, color: orange]
+      Rr1Rr [icon: x, label: Registrar X, color: blue]
+      Rr1PP [shape: hexagon, icon: xpp, label: P/P X, color: blue]
     }
     Rr2 [icon: y, label: Y CORPORATION, color: purple] {
-      Rr2Rr [icon: y, label: Registrar Y, color: orange]
-      Rr2PP [icon: ypp, label: P/P Y, color: orange]
+      Rr2Rr [icon: y, label: Registrar Y, color: purple]
+      Rr2PP [shape: hexagon, icon: ypp, label: P/P Y, color: purple]
     }
   }
   L [label: Non-Accredited Parties, color:red] {
-      L1PP [icon: z, label: P/P Provider, color:red]
-      L2PP [icon: proxymask, label: On-Behalf, color:red]
+      L1PP [shape: hexagon, icon: z, label: P/P Provider, color:red]
     }
 }
 Want [label: Parties that want data, color: gray] {

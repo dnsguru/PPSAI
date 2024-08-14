@@ -1,0 +1,21 @@
+sequence-diagram
+
+title Typical Request when Registrar and PP Provider Affiliated
+
+Rq [icon: a,    color: grey,     label: Requester       ]
+Rr [icon: x,    color: blue,     label: Registrar X     ]
+PP [icon: xpp,  color: blue,     label: P/P Provider X  ]
+RD [icon: user, color: blue,     label: Registrant Data ]
+RT [icon: user, color: darkcyan, label: Registrant      ]
+
+Rq > Rr: Data request
+Rr > Rq: Registration under Privacy
+Rq > Rr: Fuck you tell me more
+Respond [label: Balancing Test, color: blue] {
+  Rr > PP: Circumstances Merit disclose
+  PP <> RD : Reveal
+  PP > Rr: Response
+}
+Rr > Rq: Reveal
+Rq > RT: Contact
+
